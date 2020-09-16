@@ -3,5 +3,9 @@ background-color: green;
 width: 800px
 }
 h1 { background-color: black;
-color: white
+color: white; text-align: center
  }
+ dl { text-align: center}
+ #video{
+   background-image: url ("video.png"};
+   
